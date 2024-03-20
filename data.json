@@ -1,0 +1,13 @@
+{
+    "er": 1.0e-6,
+    "es": 1.0e-6,
+    "sigma": 0.3,
+    "f": "x*y+4*x*x*x*x+y*y+3*x",
+    "grad1":"x+16*x*x*x+3",
+    "grad2": "x+2*y",
+    "alpha": 0.1,
+    "maxiter": 1000,
+    "x0_0": 0.0,
+    "x0_1" : 0.0,
+    "learning_rate": 0.1
+}
